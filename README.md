@@ -1,6 +1,12 @@
 # GOBOT - A Graphical User Interface for ROBOT
 GOBOT is a user-friendly graphical interface designed to simplify the execution of ROBOT, a powerful command-line tool for ontology development and processing. With GOBOT, you can harness the full capabilities of ROBOT without the need to write complex command-line instructions. Perform ontology tasks effortlessly and efficiently using a convenient graphical interface.
 
+# Creators and contributors
+
+-Luke Liu, University of Washington
+
+-Tuan Amith,PhD, University of Texas Medical Branch
+
 # Screenshot
 ![Screenshot](images/GUIscreenshot.png)
 
