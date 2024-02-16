@@ -168,11 +168,6 @@ void Template::templateFiles()
 {
     QString result = getSavePath() + "/" + getNameSave();
 
-    if (template_firstMap.isEmpty())
-    {
-        QMessageBox::warning(nullptr, "Error", "You need at least one input ontology.");
-        return;
-    }
     if (template_moreMap.isEmpty())
     {
         QMessageBox::warning(nullptr, "Error", "You need at least one template file.");
