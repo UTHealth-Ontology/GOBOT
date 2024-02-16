@@ -63,25 +63,25 @@ Launch the downloaded GOBOT application on your computer.
 
 **Clone the Repository:**
 
-Clone the GOBOT repository to your local machine using Git:
+*Clone the GOBOT repository to your local machine using Git
 
 **Open in QT Creator:**
 
-Open QT Creator (make sure you have QT version 6 or higher installed).
+*Open QT Creator (make sure you have QT version 6 or higher installed).
 
 **Build the Project:**
 
-Locate the `.pro` file at `src/GOBOT/GOBOT.pro` in the cloned repository.
-Open the `.pro` file in QT Creator.
-Build the project by clicking the "Run" button or selecting "Build" from the menu.
+*Locate the `.pro` file at `src/GOBOT/GOBOT.pro` in the cloned repository.
+*Open the `.pro` file in QT Creator.
+*Build the project by clicking the "Run" button or selecting "Build" from the menu.
 
 **Run GOBOT:**
 
-After successfully building the project, you can run GOBOT directly from QT Creator.
+*After successfully building the project, you can run GOBOT directly from QT Creator.
 
 **Configure Preferences:**
 
-Set your preferences, such as "Build Settings" or "Project Settings," in QT Creator settings if needed.
+*Set your preferences, such as "Build Settings" or "Project Settings," in QT Creator settings if needed.
 
 # Documentation
 For detailed usage instructions and documentation on ROBOT commands, refer to the official [ROBOT documentation](https://robot.obolibrary.org/).
