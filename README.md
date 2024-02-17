@@ -50,13 +50,21 @@ GOBOT provides a user-friendly interface for executing various ROBOT commands, i
 
 **Download GOBOT:**
 
-Visit the Releases page on the GOBOT GitHub repository.
+- Visit the Releases page on the GOBOT GitHub repository.
 Download the precompiled executable for your operating system (Windows/macOS).
 
 **Run GOBOT:**
 
-Launch the downloaded GOBOT application on your computer.
+- Launch the downloaded GOBOT application on your computer.
 
+**Note for iOS Users:**
+
+Upon the first time opening GOBOT on iOS devices, you may encounter a message stating "the developer cannot be verified." To bypass this, follow these steps:
+
+1. Go to System Settings on your iOS device
+2. Click on Privacy & Security
+3. Scroll down to the security section
+4. Click on "Open Anyways," and GOBOT should run successfully from there
 ---
 
 **Option 2: Build from Source Code**
